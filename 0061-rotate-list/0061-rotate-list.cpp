@@ -11,20 +11,19 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        ListNode* prev=NULL;
-        ListNode* current=head;
+        if(head==NULL || head->next==NULL) return head; //when linklist has only one or two element
         int count=0;
-       
         ListNode* temp=head;
         while(temp){
             count++;
             temp=temp->next;
         }
-        if(count==0) return NULL;
-        if(count==1) return head;
         k=k%count;
         if(k==0) return head;
         count=count-k;
+
+        ListNode* prev=NULL;
+        ListNode* current=head;
         while(count--){
             prev=current;
             current=current->next;
