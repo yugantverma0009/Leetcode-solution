@@ -13,8 +13,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
