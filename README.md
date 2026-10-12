@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
 | [0382-linked-list-random-node](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0382-linked-list-random-node) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
