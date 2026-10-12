@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
 | [0382-linked-list-random-node](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0382-linked-list-random-node) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
