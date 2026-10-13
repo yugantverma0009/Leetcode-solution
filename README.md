@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0021-merge-two-sorted-lists) |
 ## Divide and Conquer
 |  |
