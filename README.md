@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
 | ------- |
