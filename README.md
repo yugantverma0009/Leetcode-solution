@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/yugantverma0009/leetcode-topicwise/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
